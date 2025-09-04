@@ -1,25 +1,21 @@
-<!-- encabezado minimal animado con tu paleta -->
+<!-- Header estático con paleta azul-turquesa -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=40B0F0&center=true&vCenter=true&width=720&lines=Angel+Rodriguez;Frontend+%2B+Backend;UX%2FUI+mindset+%7C+Modular+solutions" alt="Typing SVG">
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1116&text=Angel%20Rodriguez&fontColor=40B0F0&height=80&fontSize=36&desc=Frontend%20%2B%20Backend%20%7C%20UX%2FUI%20mindset&descAlign=50&descAlignY=72&descSize=14" alt="banner"/>
 </p>
-
----
 
 ### About
 Software developer in training from Mexico 🇲🇽.  
-I build **user-centered frontends** and **cohesive backends**, connecting design and functionality with modular solutions.  
+I build **user-centered frontends** and **cohesive backends**, focusing on modular solutions that connect design and functionality.  
 Currently learning **Docker** to strengthen my workflow.
 
-<!-- ====== COLUMNS (no borders) ====== -->
-<div align="center">
+---
 
-<table style="border-collapse:collapse;border:none;">
+<!-- Dos columnas sin bordes: Tech vs. Metrics -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td style="border:none;vertical-align:top;padding:0 12px;" width="50%">
+<td width="50%" valign="top">
 
-### Tech Stack
+#### Tech Stack
 **Frontend**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" alt="JS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" alt="React"/>
@@ -44,23 +40,32 @@ Currently learning **Docker** to strengthen my workflow.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" alt="Git"/>
 
 </td>
-<td style="border:none;vertical-align:top;padding:0 12px;" width="50%">
+<td width="50%" valign="top">
 
-### GitHub Stats
+#### Activity & Stats
+<!-- Nota: estos widgets reflejan actividad PÚBLICA -->
+<!-- Stats (tema a juego) -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=angelscatman&show_icons=true&include_all_commits=true&title_color=40B0F0&icon_color=50C0F0&text_color=E6F7FF&bg_color=0B1116" 
-  alt="GitHub Stats" height="150"
+  src="https://github-readme-stats.vercel.app/api?username=angelscatman&show_icons=true&title_color=40B0F0&icon_color=50C0F0&text_color=E6F7FF&bg_color=0B1116" 
+  alt="GitHub Stats" height="148"
 />
-<br/>
+
+<!-- Activity graph -->
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=angelscatman&theme=react-dark&bg_color=0B1116&color=E6F7FF&line=40B0F0&point=50C0F0&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<!-- Streak -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelscatman&layout=compact&langs_count=8&title_color=40B0F0&text_color=E6F7FF&bg_color=0B1116" 
-  alt="Top Languages" height="150"
-/>
-<br/>
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=angelscatman&background=0B1116&ring=40B0F0&fire=50C0F0&currStreakLabel=E6F7FF&sideNums=E6F7FF&dates=97A3B6&sideLabels=E6F7FF" 
+  src="https://github-readme-streak-stats.herokuapp.com?user=angelscatman&background=0B1116&ring=40B0F0&fire=50C0F0&currStreakLabel=E6F7FF&sideNums=E6F7FF&dates=97A3B6&sideLabels=E6F7FF&hide_border=true" 
   alt="Streak"
 />
+
+</td>
+</tr>
+</table>
+
+---
 
 ### Contact
 <a href="https://www.linkedin.com/in/angel-scatman">
@@ -70,12 +75,8 @@ Currently learning **Docker** to strengthen my workflow.
   <img src="https://img.shields.io/badge/Email-40B0F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-</td>
-</tr>
-</table>
-</div>
-
-<!-- vista de perfil, tono bajo -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=angelscatman&color=2060F0" alt="Profile views"/>
-</p>
+<!-- (Opcional) sección plegable para cosas futuras -->
+<details>
+  <summary>What I’m exploring next</summary>
+  • Dockerized dev workflows • Design systems in React • Realtime patterns with Socket.io
+</details>
