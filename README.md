@@ -7,7 +7,7 @@
 <!-- HERO -->
 <div align="center">
 
-  <h1 style="margin:0; color:#E6F7FF;">Angel Rodriguez</h1>
+  <h1 style="margin:0; color:#E6F7FF;">Angel Rodríguez</h1>
 
   <!-- Animated subtitle -->
   <img
