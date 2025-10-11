@@ -27,7 +27,7 @@ I enjoy collaborating across the stack to deliver products that are **intuitive 
 - **Frontend:** React, TypeScript, TailwindCSS for performant and maintainable interfaces  
 - **Backend & APIs:** Node.js + Express/Sequelize, REST APIs for structured data exchange  
 - **Mobile:** Kotlin, Flutter, Swift for native and hybrid solutions  
-- **Development Workflow:** Dockerized environments and Postman for API testing and integration  
+- **Development Workflow:** Dockerized environments and Bruno for API testing and integration  
 - **Cross-Platform:** Daily experience developing on macOS and Linux
 
 ---
@@ -38,45 +38,45 @@ I enjoy collaborating across the stack to deliver products that are **intuitive 
   <tr>
     <td width="33%" align="center" valign="top">
       <strong>Languages</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=js,ts,php,html,css&perline=5&theme=dark" alt="Languages"/>
+      <img src="https://skills.syvixor.com/api/icons?i=js,ts,php,html,css&perline=5" alt="Languages"/>
     </td>
     <td width="33%" align="center" valign="top">
       <strong>Frontend</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,tailwind&perline=4&theme=dark" alt="Frontend"/>
+      <img src="https://skills.syvixor.com/api/icons?i=react,tailwind&perline=4" alt="Frontend"/>
     </td>
     <td width="33%" align="center" valign="top">
       <strong>Backend & APIs</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize&perline=4&theme=dark" alt="Backend & APIs"/>
+      <img src="https://skills.syvixor.com/api/icons?i=nodejs,express,sequelize&perline=4" alt="Backend & APIs"/>
     </td>
   </tr>
 
   <tr>
     <td width="33%" align="center" valign="top">
+      <strong>Real-Time</strong><br/><br/>
+      <img src="https://skills.syvixor.com/api/icons?i=socketio&perline=4" alt="Real-Time"/>
+    </td>
+    <td width="33%" align="center" valign="top">
       <strong>Databases</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=mysql&perline=4&theme=dark" alt="Databases"/>
+      <img src="https://skills.syvixor.com/api/icons?i=mysql&perline=4" alt="Databases"/>
     </td>
     <td width="33%" align="center" valign="top">
       <strong>Mobile</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=kotlin,flutter,swift&perline=4&theme=dark" alt="Mobile"/>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <strong>DevOps & Tools</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker,git,vscode,postman&perline=4&theme=dark" alt="DevOps & Tools"/>
+      <img src="https://skills.syvixor.com/api/icons?i=kotlin,flutter,swift&perline=4" alt="Mobile"/>
     </td>
   </tr>
 
   <tr>
     <td width="33%" align="center" valign="top">
-      <strong>Design</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=figma&perline=4&theme=dark" alt="Design"/>
+      <strong>DevOps & Tools</strong><br/><br/>
+      <img src="https://skills.syvixor.com/api/icons?i=docker,git,bruno&perline=4" alt="DevOps & Tools"/>
     </td>
     <td width="33%" align="center" valign="top">
-      <strong>Patterns</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=regex&perline=4&theme=dark" alt="Patterns"/>
+      <strong>Design</strong><br/><br/>
+      <img src="https://skills.syvixor.com/api/icons?i=figma&perline=4" alt="Design"/>
     </td>
     <td width="33%" align="center" valign="top">
       <strong>Platforms</strong><br/><br/>
-      <img src="https://skillicons.dev/icons?i=linux,apple&perline=4&theme=dark" alt="Platforms"/>
+      <img src="https://skills.syvixor.com/api/icons?i=linux,apple&perline=4" alt="Platforms"/>
     </td>
   </tr>
 </table>
@@ -131,7 +131,7 @@ I enjoy collaborating across the stack to deliver products that are **intuitive 
   <br/><br/>
 
   <div>
-    <img src="https://skillicons.dev/icons?i=react,nodejs,figma&theme=dark" height="36" alt="" aria-hidden="true"/><br/>
+    <img src="https://skills.syvixor.com/api/icons?i=react,nodejs,figma&perline=3" height="36" alt="" aria-hidden="true"/><br/>
     <strong style="color:#FCE7F3; font-size:16px;">Focused on building reliable, scalable, and user-centered products.</strong><br/>
     <span style="color:#CFE8DC;">Blending strong front-end development with solid APIs and efficient workflows.</span>
   </div>
@@ -141,7 +141,9 @@ I enjoy collaborating across the stack to deliver products that are **intuitive 
 
 <details>
   <summary>Currently Exploring</summary>
+  <div align="center">
+    <img src="https://skills.syvixor.com/api/icons?i=docker,react&perline=2" height="36" alt="Exploring"/>
+  </div>
   • Docker-based development workflows  
-  • Scalable component architectures in React  
-  • Performance optimization across the stack  
+  • Scalable component architectures in React
 </details>
