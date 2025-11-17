@@ -20,7 +20,7 @@
 ---
 
 ### About
-Based in Puebla, Mexico 🇲🇽.  
+Puebla, Mexico 🇲🇽.  
 I develop **front-end–driven applications** with a focus on **clean architecture, maintainability, and user-oriented design**.  
 I enjoy collaborating across the stack to deliver products that are **intuitive to use, reliable in production, and scalable over time**.
 
