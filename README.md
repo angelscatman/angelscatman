@@ -63,8 +63,7 @@ I am a Software Engineer living in Puebla, Mexico 📍🇲🇽. I build robust a
 
 <div id="github-activity" align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelscatman&layout=compact&title_color=FF7EB3&icon_color=38BDF8&text_color=F8FAFC&bg_color=0D1117&hide_border=true" 
-    alt="Top Languages" height="150"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelscatman&theme=github_dark" 
   />&nbsp;&nbsp;
   <img 
     src="https://streak-stats.demolab.com/?user=angelscatman&background=0D1117&ring=FF7EB3&fire=38BDF8&currStreakLabel=F8FAFC&sideNums=F8FAFC&dates=A0A0A0&sideLabels=F8FAFC&hide_border=true" 
