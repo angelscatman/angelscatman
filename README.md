@@ -23,7 +23,7 @@
 
 ### // About
 
-I am a Software Engineer living in Puebla, Mexico 📍🇲🇽. I build robust applications, ranging from internal tools and ERP modules to mobile apps integrated with native hardware. My main focus is designing scalable databases, writing efficient APIs, and creating smooth user interfaces. Beyond my daily work, I love exploring new projects and technologies to keep my technical ecosystem constantly evolving.
+I am a Software Engineer living in Puebla, Mexico 🇲🇽. I build robust applications, ranging from internal tools and ERP modules to mobile apps integrated with native hardware. My main focus is designing scalable databases, writing efficient APIs, and creating smooth user interfaces. Beyond my daily work, I love exploring new projects and technologies to keep my technical ecosystem constantly evolving.
 
 `::` 🔭 **Currently focusing on:** Building solid backend architectures and standardizing development environments with Docker and Linux.  
 `::` 🌱 **Currently learning:** Deepening my knowledge in **NestJS** architecture and NoSQL data modeling with **MongoDB**.  
