@@ -21,6 +21,8 @@
 
 ---
 
+<div id="about"></div>
+
 ### // About
 
 I am a Software Engineer living in Puebla, Mexico 🇲🇽. I build robust applications, ranging from internal tools and ERP modules to mobile apps integrated with native hardware. My main focus is designing scalable databases, writing efficient APIs, and creating smooth user interfaces. Beyond my daily work, I love exploring new projects and technologies to keep my technical ecosystem constantly evolving.
@@ -31,6 +33,8 @@ I am a Software Engineer living in Puebla, Mexico 🇲🇽. I build robust appli
 `::` 💬 **Ask me about:** TypeScript, React, cross-platform mobile development (Kotlin/Flutter), and REST APIs.  
 
 ---
+
+<div id="tech-stack"></div>
 
 ### // Tech Stack
 
@@ -59,11 +63,13 @@ I am a Software Engineer living in Puebla, Mexico 🇲🇽. I build robust appli
 
 ---
 
+<div id="github-activity"></div>
+
 ### // GitHub Activity
 
-<div id="github-activity" align="center">
+<div align="center">
   <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelscatman&theme=github_dark" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=angelscatman&theme=github_dark" 
   />&nbsp;&nbsp;
   <img 
     src="https://streak-stats.demolab.com/?user=angelscatman&background=0D1117&ring=FF7EB3&fire=38BDF8&currStreakLabel=F8FAFC&sideNums=F8FAFC&dates=A0A0A0&sideLabels=F8FAFC&hide_border=true" 
@@ -80,11 +86,13 @@ I am a Software Engineer living in Puebla, Mexico 🇲🇽. I build robust appli
 
 ---
 
+<div id="contact"></div>
+
 ### // Contact & Socials
 
 Feel free to reach out to talk about code, project collaborations, or new career opportunities. I'm always down for a good chat ;)
 
-<div id="contact" align="center">
+<div align="center">
   <br/>
   
   <a href="https://www.linkedin.com/in/angel-scatman">
