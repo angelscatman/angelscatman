@@ -98,8 +98,11 @@ Feel free to reach out to talk about code, project collaborations, or new career
   <a href="https://www.linkedin.com/in/angel-scatman">
     <img src="https://img.shields.io/badge/angel--scatman-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8&label=LinkedIn&labelColor=0D1117&color=FF7EB3" alt="LinkedIn">
   </a>
+  <a href="mailto:angel.cecilio.dev@gmail.com">
+    <img src="https://img.shields.io/badge/angel.cecilio.dev@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FF7EB3&label=Gmail&labelColor=0D1117&color=38BDF8" alt="Gmail">
+  </a>
   <a href="mailto:angelscatman@hotmail.com">
-    <img src="https://img.shields.io/badge/angelscatman@hotmail.com-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=FF7EB3&label=Email&labelColor=0D1117&color=38BDF8" alt="Email">
+    <img src="https://img.shields.io/badge/angelscatman@hotmail.com-0D1117?style=for-the-badge&logo=microsoftoutlook&logoColor=FF7EB3&label=Outlook&labelColor=0D1117&color=38BDF8" alt="Email">
   </a>
 
   <br/><br/>
